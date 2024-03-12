@@ -1,2 +1,2 @@
 # QuizApp
-A python based quiz tool
+This Quiz tool is built using OOPS in python
